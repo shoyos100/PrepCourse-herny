@@ -1,2 +1,1 @@
-# PrepCourse-herny
-este es un repositorio de prueba de modulo 2 de henry
+esto es una pruba de como crear un repositorio y clonarlo en github
